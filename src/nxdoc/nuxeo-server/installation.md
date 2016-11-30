@@ -301,7 +301,7 @@ The following table lists current requirements for running Nuxeo Platform. This 
 <td colspan="1">See following documentation: <ul><li>[Checking your Java Version]({{page page='installation#java-check'}})</li> <li>[How to Install Java]({{page page='installation#java-install'}})</li></td>
 </tr>
 <tr><th colspan="1">Application Server</th>
-<td colspan="1"> <ul><li>Tomcat 7.0.64</li><li>JBoss WildFly 8.1.0</li></ul></td>
+<td colspan="1"> <ul><li>Tomcat 7.0.69</li><li>JBoss WildFly 8.1.0</li></ul></td>
 <td colspan="1">Nuxeo is shipped with an embedded Tomcat server but can also be packed as a static WAR that can be deployed additional targets, such as JBoss Wildfly. See [Run as A Static War]({{page page='deploying-as-a-standard-static-war'}})</td>
 <tr><th colspan="1">Database</th>
 <td colspan="1"><ul><li>MongoDB (2.8, 3.0, 3.2)</li><li> PostgreSQL (9.3, 9.4, 9.5, 9.6)</li><li>Oracle (11g, 12g)</li><li>SQL Server</li><li>MySQL (5.6,5.7)</li><li>MariaDB </li><li>MarkLogic (8.0)</li></ul></td>
